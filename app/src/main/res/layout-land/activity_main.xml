@@ -8,13 +8,13 @@
     tools:context=".MainActivity">
 
     <androidx.fragment.app.FragmentContainerView
-        android:id="@+id/fragmentContainerView2"
-        android:name="com.fcc.calculadora.PortraitFragment"
-        android:layout_width="wrap_content"
+        android:id="@+id/fragmentContainerView"
+        android:name="com.fcc.calculadora.LandscapeFragment"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:layout="@layout/fragment_landscape" />
+        tools:layout="@layout/fragment_portrait" />
 </androidx.constraintlayout.widget.ConstraintLayout>
