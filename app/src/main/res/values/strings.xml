@@ -2,5 +2,25 @@
     <string name="app_name">Calculadora</string>
     <string name="bienvenido">Bienvenido</string>
     <string name="bienvenido2">Bienvenido2</string>
+    <string name="ac">AC</string>
+    <string name="del">Del</string>
+    <string name="porcentaje">%</string>
+    <string name="entre">/</string>
+    <string name="siete">7</string>
+    <string name="ocho">8</string>
+    <string name="nueve">9</string>
+    <string name="multiplicacion">*</string>
+    <string name="cuatro">4</string>
+    <string name="cinco">5</string>
+    <string name="seis">6</string>
+    <string name="menos">-</string>
+    <string name="uno">1</string>
+    <string name="dos">2</string>
+    <string name="tres">3</string>
+    <string name="mas">+</string>
+    <string name="dobleCero">00</string>
+    <string name="cero">0</string>
+    <string name="punto">.</string>
+    <string name="resultado">=</string>
     <!-- TODO: Remove or change this placeholder text -->
 </resources>
