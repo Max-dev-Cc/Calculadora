@@ -8,7 +8,7 @@
     tools:context=".MainActivity">
 
     <androidx.fragment.app.FragmentContainerView
-        android:id="@+id/fragmentContainerView"
+        android:id="@+id/fragmentContainerView2"
         android:name="com.fcc.calculadora.PortraitFragment"
         android:layout_width="0dp"
         android:layout_height="0dp"
@@ -16,5 +16,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:layout="@layout/fragment_landscape" />
+        tools:layout="@layout/fragment_portrait" />
 </androidx.constraintlayout.widget.ConstraintLayout>

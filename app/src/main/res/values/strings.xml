@@ -22,5 +22,27 @@
     <string name="cero">0</string>
     <string name="punto">.</string>
     <string name="resultado">=</string>
-    <!-- TODO: Remove or change this placeholder text -->
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="rad">rad</string>
+    <string name="deg">deg</string>
+    <string name="inv">inv</string>
+    <string name="log">log</string>
+    <string name="in">In</string>
+    <string name="factorial">!</string>
+    <string name="pi">π</string>
+    <string name="euler">e</string>
+    <string name="potencia">^</string>
+    <string name="raiz">√</string>
+    <string name="AbrirParentesis">(</string>
+    <string name="CerrarParentesis">)</string>
+    <!-- Invert Text -->
+    <string name="asin">sin⁻¹</string>
+    <string name="acos">cos⁻¹</string>
+    <string name="atan">tan⁻¹</string>
+    <string name="diez_x">10ˣ</string>
+    <string name="e_x">eˣ</string>
+    <string name="x_cuadrado">x²</string>
+    <string name="raiz_n">ʸ√x</string>
 </resources>

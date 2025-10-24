@@ -16,5 +16,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:layout="@layout/fragment_portrait" />
+        tools:layout="@layout/fragment_landscape" />
 </androidx.constraintlayout.widget.ConstraintLayout>
